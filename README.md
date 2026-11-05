@@ -1,27 +1,24 @@
-
-```markdown
-# 🔓 DECRYPTION_SCRIPTS
+# 🔓 Bitlynx File Decoder
 
 > **Public Python toolkit to decrypt configs from popular Android tunneling apps**  
 > HTTP Injector • NPV Tunnel • HTTP Custom • Dark Tunnel • SSC Custom
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Channel](https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram)](https://t.me/habibidecodez)
+[![Channel](https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram)](https://t.me/saudiallupdate)
 
-**📢 Official Channel:** [t.me/habibidecodez](https://t.me/habibidecodez)
+**📢 Official Channels:**  
+[t.me/saudiallupdate](https://t.me/saudiallupdate) • [t.me/bdnetpro](https://t.me/bdnetpro)
 
 ---
 
-## 👥 Script Authors
+## 👥 Bot & Support
 
-| Author | Telegram |
+| Service | Telegram |
 |--------|----------|
-| HABIBI | [@HABIBI_1ST](https://t.me/HABIBI_1ST) |
-| NullptrO | [@NullptrO](https://t.me/NullptrO) |
-
-**🤝 Contributors & Admins:**  
-[@YouKnowA9](https://t.me/YouKnowA9) • [@forjad0](https://t.me/forjad0)
+| Decoder Bot | [@bitdecoder_bot](https://t.me/bitdecoder_bot) |
+| Update Channel 1 | [t.me/saudiallupdate](https://t.me/saudiallupdate) |
+| Update Channel 2 | [t.me/bdnetpro](https://t.me/bdnetpro) |
 
 ---
 
@@ -31,7 +28,7 @@ Install all dependencies with a single command:
 
 ```bash
 pip install pycryptodome argon2-cffi msgpack
-```
+---
 
 · pycryptodome – AES, ChaCha20, and other modern ciphers
 · argon2-cffi – Argon2 key derivation (required for HTTP Injector)
@@ -176,8 +173,8 @@ This project is released under the MIT License – you’re free to use, modify,
 
 ---
 
-🔐 Keep decrypting, stay curious!
-Made with ❤️ by @HABIBI_1ST & @NullptrO
-Maintained by @YouKnowA9 & @forjad0
+​🔐 Keep decrypting, stay curious!
+Powered by @bitdecoder_bot
+Updates: t.me/saudiallupdate & t.me/bdnetpro
 
 ```
